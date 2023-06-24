@@ -1,2 +1,0 @@
-hola mundo los saludo django
-hola2
